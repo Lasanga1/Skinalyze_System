@@ -3,6 +3,8 @@
 
 **Skinalyze** is an AI-powered dermatology support web application that analyzes skin images and predicts possible skin conditions using deep learning.
 
+Google Drive Link of the System: https://drive.google.com/file/d/16VW-VY_kjemtzDNg6LXRlvsypltqnc7H/view?usp=sharing
+
 The system provides intelligent insights including:
 
 - 🧠 Skin condition analysis  
